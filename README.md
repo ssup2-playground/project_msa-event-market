@@ -1,6 +1,6 @@
 # msa-event-market
 
-**msa-event-market** is an e-ecommerce toy project for personal study. msa-event-market aims to build as an **micro service architecture** based on **K8s** ([Kubernetes](https://kubernetes.io/)). msa-event-market services are deployed, operated, and monitored on K8s cluster. In addition, DB, message queue, cache, proxy, log analyzer/collector, metric collector, and CI/CD tool used by msa-event-market services also operate on K8s cluster.
+**msa-event-market** is an e-ecommerce toy project for personal study. msa-event-market aims to build as an **MSA (Micro Service Architecture)** and **EDA (Event-Driven Architecture)** based on **K8s** ([Kubernetes](https://kubernetes.io/)). msa-event-market services are deployed, operated, and monitored on K8s cluster. In addition, DB, message queue, cache, proxy, log analyzer/collector, metric collector, and CI/CD tool used by msa-event-market services also operate on K8s cluster.
 
 ## Component Stack
 
