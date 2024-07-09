@@ -12,17 +12,11 @@ msa-event-market project's component stack
 
 msa-event-market project is composed of the following git repositories.
 
-* [aws-terraform](https://github.com/ssup2-playground/msa-event-market_aws-terraform) : Terraform for AWS EKS clusters and AWS resources.
-
 * [helm-charts](https://github.com/ssup2-playground/helm-charts) : Helm charts of DB, message queue, cache, proxy, log analyzer/collector, metric collector, and CI/CD tool used by msa-event-market services.
 
 * [service-auth](https://github.com/ssup2-playground/msa-event-market_service-auth) : Auth service manages user information and is responsible for authentication/authorization of msa-event-market service. Auth service is developed with **Golang**.
 
 * [service-store](https://github.com/ssup2-playground/msa-event-market_service-store) : Store service manages store and product inventory. Store service is developed with **Java on SpringBoot**.
-
-* service-order : Todo
-
-* service-web : Todo
 
 * [deploy-services](https://github.com/ssup2-playground/msa-event-market_deploy-services) : Service deployment configuration git repository for GitOps.
 
