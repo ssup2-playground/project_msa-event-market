@@ -12,7 +12,7 @@ msa-event-market project's component stack
 
 msa-event-market project is composed of the following git repositories.
 
-* [helm-charts](https://github.com/ssup2-playground/helm-charts) : Helm charts of DB, message queue, cache, proxy, log analyzer/collector, metric collector, and CI/CD tool used by msa-event-market services.
+* [helm-charts](https://github.com/ssup2-playground/msa-event-market_helm-charts) : Helm charts of DB, message queue, cache, proxy, log analyzer/collector, metric collector, and CI/CD tool used by msa-event-market services.
 
 * [service-auth](https://github.com/ssup2-playground/msa-event-market_service-auth) : Auth service manages user information and is responsible for authentication/authorization of msa-event-market service. Auth service is developed with **Golang**.
 
